@@ -32,4 +32,4 @@ Ovviamente calcolare il valore (ipotizzare quadrato o rettangolo)
  op1 < op2 => minore
  op1 >= op2 maggiore o uguale
  
- Invertire uguale e un altro segno è errato "<=" corretto; "=<" non corretto.*/
+ Invertire uguale e un altro segno è errato "<=" corretto; "=<" non corretto.*/     
