@@ -10,5 +10,5 @@ essere corretto cioè non può essere gg=29 mm=2 oppure gg=31 mm=4
 */
 #include <stdio.h>
 int main(){
-    
+        
 }
