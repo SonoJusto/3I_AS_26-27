@@ -16,6 +16,7 @@ int main(){
     float quantita = 0;
     float prezzototlord = 0;
     float prezzototnet = 0;
+    float prezzoscont = 0;
     char junk;
     
     printf("inserire il prezzo:");
@@ -28,10 +29,14 @@ int main(){
 
     prezzototlord=prezzo_unitario/100*15;
 
-    if()
-
-
-   
+    if(quantita>10) 
+    {
+        prezzototlord=prezzototnet/100*15;
+        printf("il prezzo scontato e:%.2f\n", prezzoscont);
+        junk=getchar();
+        printf("lo sconto è del 15 \n");
 
     }
+    printf("il prezzo totale lordo:%.2f\n", prezzototlord);
+    return 0;
 }
