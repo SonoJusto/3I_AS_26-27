@@ -1,4 +1,4 @@
-/*
+ /*
 Scrivi un programma in C che simuli la cassa di un negozio. Il programma deve:
 1. Chiedere all'utente di inserire il prezzo unitario di un articolo (valore float) e la quantità
 acquistata (valore intero).
