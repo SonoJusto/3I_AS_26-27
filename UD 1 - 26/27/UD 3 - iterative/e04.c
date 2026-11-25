@@ -15,7 +15,7 @@ int main() {
         cnt = v1;
         while(cnt <= 100){
             if(cnt%2 == 0){
-                printf("%d", cnt);
+                printf("%d\n", cnt);
             }
             cnt = cnt + 1;
         }
