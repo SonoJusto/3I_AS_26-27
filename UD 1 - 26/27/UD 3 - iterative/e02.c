@@ -14,8 +14,7 @@ int main() {
     cnt = 1;
     while (cnt <= n) {
         printf("%d\n", cnt);
-        cnt=cnt+1;
+        cnt=cnt+1; //oppure cnt++
     }
-
-
+    return 0;
 }
